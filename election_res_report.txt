@@ -1,0 +1,10 @@
+1. Total seats: 1086
+2. Party with majority vote: Total, 543 seats
+3. Party with second majority: Bharatiya Janata Party - BJP, 240 seats
+4. Party leading in most constituencies: Bharatiya Janata Party - BJP, 0 constituencies
+5. Minority parties: United People’s Party, Liberal - UPPL, Asom Gana Parishad - AGP, Hindustani Awam Morcha (Secular) - HAMS, Kerala Congress - KEC, Revolutionary Socialist Party - RSP, Nationalist Congress Party - NCP, Voice of the People Party - VOTPP, Zoram People’s Movement - ZPM, Shiromani Akali Dal - SAD, Rashtriya Loktantrik Party - RLTP, Bharat Adivasi Party - BHRTADVSIP, Sikkim Krantikari Morcha - SKM, Marumalarchi Dravida Munnetra Kazhagam - MDMK, Aazad Samaj Party (Kanshi Ram) - ASPKR, Apna Dal (Soneylal) - ADAL, AJSU Party - AJSUP, All India Majlis-E-Ittehadul Muslimeen - AIMIM
+6. Party with highest % seats won: Total, 50.00%
+7. Party with second highest % seats won: Bharatiya Janata Party - BJP, 22.10%
+8. Competitive parties: Total, Bharatiya Janata Party - BJP
+9. Parties that may impact results: Bharatiya Janata Party - BJP, Indian National Congress - INC, Samajwadi Party - SP, All India Trinamool Congress - AITC, Dravida Munnetra Kazhagam - DMK, Telugu Desam - TDP, Janata Dal  (United) - JD(U)
+10. Minimum parties Congress needs to beat BJP: Total
